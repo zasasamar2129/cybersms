@@ -1,0 +1,595 @@
+{
+  "contacts": [
+    {
+      "id": "c1",
+      "name": "Alpha Sentinel",
+      "phone": "+15550199281",
+      "tags": [
+        "VIP",
+        "regular"
+      ],
+      "customFields": {
+        "amount": "$150.00",
+        "date": "June 30"
+      },
+      "createdAt": 1781862780069
+    },
+    {
+      "id": "c2",
+      "name": "Major Tom",
+      "phone": "+15550199555",
+      "tags": [
+        "VIP",
+        "overdue"
+      ],
+      "customFields": {
+        "amount": "$240.00",
+        "date": "June 15"
+      },
+      "createdAt": 1781873580069
+    },
+    {
+      "id": "c3",
+      "name": "Nova Prime",
+      "phone": "+15550198811",
+      "tags": [
+        "regular"
+      ],
+      "customFields": {
+        "amount": "$75.50",
+        "date": "July 05"
+      },
+      "createdAt": 1781927580069
+    },
+    {
+      "id": "c4",
+      "name": "Cyber Core",
+      "phone": "+15550192300",
+      "tags": [
+        "new-lead"
+      ],
+      "customFields": {
+        "amount": "$0.00",
+        "date": "N/A"
+      },
+      "createdAt": 1782017580069
+    },
+    {
+      "id": "contact_d4iz49msf",
+      "name": "elyasi",
+      "phone": "+989190508869",
+      "tags": [
+        "cust"
+      ],
+      "customFields": {
+        "amount": "N/A",
+        "date": "N/A"
+      },
+      "createdAt": 1782036126579
+    },
+    {
+      "id": "contact_b6wi7pq2q",
+      "name": "javadzade",
+      "phone": "+989122517414",
+      "tags": [
+        "cust"
+      ],
+      "customFields": {
+        "amount": "N/A",
+        "date": "N/A"
+      },
+      "createdAt": 1782036126579
+    },
+    {
+      "id": "contact_q26ob0z3h",
+      "name": "saeed kia",
+      "phone": "+989123516587",
+      "tags": [
+        "cust"
+      ],
+      "customFields": {
+        "amount": "N/A",
+        "date": "N/A"
+      },
+      "createdAt": 1782036126580
+    },
+    {
+      "id": "contact_or4480ayr",
+      "name": "shafaei",
+      "phone": "+989122524776",
+      "tags": [
+        "cust"
+      ],
+      "customFields": {
+        "amount": "N/A",
+        "date": "N/A"
+      },
+      "createdAt": 1782036126581
+    },
+    {
+      "id": "contact_tbuibytwz",
+      "name": "golshani",
+      "phone": "+989122499042",
+      "tags": [
+        "cust"
+      ],
+      "customFields": {
+        "amount": "N/A",
+        "date": "N/A"
+      },
+      "createdAt": 1782036126582
+    },
+    {
+      "id": "contact_nk2p7l8sb",
+      "name": "maragheili",
+      "phone": "+989120779327",
+      "tags": [
+        "cust"
+      ],
+      "customFields": {
+        "amount": "N/A",
+        "date": "N/A"
+      },
+      "createdAt": 1782036126583
+    },
+    {
+      "id": "contact_fw1hdi2o5",
+      "name": "sharifi",
+      "phone": "+989305175813",
+      "tags": [
+        "cust"
+      ],
+      "customFields": {
+        "amount": "N/A",
+        "date": "N/A"
+      },
+      "createdAt": 1782036126588
+    },
+    {
+      "id": "contact_ob1rdp0xs",
+      "name": "shirazi",
+      "phone": "+989963392649",
+      "tags": [
+        "cust"
+      ],
+      "customFields": {
+        "amount": "N/A",
+        "date": "N/A"
+      },
+      "createdAt": 1782036126590
+    },
+    {
+      "id": "contact_89vpefuga",
+      "name": "sanei",
+      "phone": "+989126766113",
+      "tags": [
+        "cust"
+      ],
+      "customFields": {
+        "amount": "N/A",
+        "date": "N/A"
+      },
+      "createdAt": 1782036126591
+    },
+    {
+      "id": "contact_8o7ew74ai",
+      "name": "asadi",
+      "phone": "+989378158389",
+      "tags": [
+        "cust"
+      ],
+      "customFields": {
+        "amount": "N/A",
+        "date": "N/A"
+      },
+      "createdAt": 1782036126594
+    },
+    {
+      "id": "contact_98o6bwntm",
+      "name": "ebadi",
+      "phone": "+989120521370",
+      "tags": [
+        "cust"
+      ],
+      "customFields": {
+        "amount": "N/A",
+        "date": "N/A"
+      },
+      "createdAt": 1782036126595
+    },
+    {
+      "id": "contact_gakqmkwzh",
+      "name": "mirzaye",
+      "phone": "+989926384425",
+      "tags": [
+        "cust"
+      ],
+      "customFields": {
+        "amount": "N/A",
+        "date": "N/A"
+      },
+      "createdAt": 1782036126598
+    },
+    {
+      "id": "contact_hf6d7wpix",
+      "name": "dr.hasanzade",
+      "phone": "+989102040325",
+      "tags": [
+        "cust"
+      ],
+      "customFields": {
+        "amount": "N/A",
+        "date": "N/A"
+      },
+      "createdAt": 1782036126599
+    },
+    {
+      "id": "contact_v5jqd5xsx",
+      "name": "musavi",
+      "phone": "+989191537181",
+      "tags": [
+        "cust"
+      ],
+      "customFields": {
+        "amount": "N/A",
+        "date": "N/A"
+      },
+      "createdAt": 1782036126599
+    },
+    {
+      "id": "contact_kzv6b6pgr",
+      "name": "drb1",
+      "phone": "+989127588575",
+      "tags": [
+        "cust"
+      ],
+      "customFields": {
+        "amount": "N/A",
+        "date": "N/A"
+      },
+      "createdAt": 1782036126600
+    },
+    {
+      "id": "contact_l9htiqvdv",
+      "name": "Asghar rafiei",
+      "phone": "+989122519052",
+      "tags": [
+        "cust"
+      ],
+      "customFields": {
+        "amount": "N/A",
+        "date": "N/A"
+      },
+      "createdAt": 1782036126600
+    },
+    {
+      "id": "contact_zq9hd4y1b",
+      "name": "nrz44",
+      "phone": "+989370208001",
+      "tags": [
+        "cust"
+      ],
+      "customFields": {
+        "amount": "N/A",
+        "date": "N/A"
+      },
+      "createdAt": 1782036126606
+    },
+    {
+      "id": "contact_v3e7sil4k",
+      "name": "hajian",
+      "phone": "+989190491821",
+      "tags": [
+        "cust"
+      ],
+      "customFields": {
+        "amount": "N/A",
+        "date": "N/A"
+      },
+      "createdAt": 1782036126607
+    },
+    {
+      "id": "contact_s88i8uafz",
+      "name": "Ali rafiei",
+      "phone": "+989128516743",
+      "tags": [
+        "cust"
+      ],
+      "customFields": {
+        "amount": "N/A",
+        "date": "N/A"
+      },
+      "createdAt": 1782036126608
+    },
+    {
+      "id": "contact_resadprzm",
+      "name": "alimoradi",
+      "phone": "+989129411374",
+      "tags": [
+        "cust"
+      ],
+      "customFields": {
+        "amount": "N/A",
+        "date": "N/A"
+      },
+      "createdAt": 1782036126608
+    },
+    {
+      "id": "contact_majs84jzg",
+      "name": "basiri",
+      "phone": "+989198000409",
+      "tags": [
+        "cust"
+      ],
+      "customFields": {
+        "amount": "N/A",
+        "date": "N/A"
+      },
+      "createdAt": 1782036126629
+    },
+    {
+      "id": "contact_vlx4vlvyv",
+      "name": "salehi",
+      "phone": "+989127572648",
+      "tags": [
+        "cust"
+      ],
+      "customFields": {
+        "amount": "N/A",
+        "date": "N/A"
+      },
+      "createdAt": 1782036126630
+    },
+    {
+      "id": "contact_yfvggtcor",
+      "name": "Zen",
+      "phone": "+989912113405",
+      "tags": [
+        "admin"
+      ],
+      "customFields": {
+        "amount": "",
+        "date": ""
+      },
+      "createdAt": 1782036143394
+    },
+    {
+      "id": "contact_5gb9e8x9n",
+      "name": "Mahdi",
+      "phone": "+989125535181",
+      "tags": [
+        "admin"
+      ],
+      "customFields": {
+        "amount": "",
+        "date": ""
+      },
+      "createdAt": 1782036165698
+    },
+    {
+      "id": "contact_ejs5vzvg5",
+      "name": "Mr.Javidani",
+      "phone": "+989122519039",
+      "tags": [
+        "admin"
+      ],
+      "customFields": {
+        "amount": "",
+        "date": ""
+      },
+      "createdAt": 1782036356577
+    }
+  ],
+  "campaigns": [
+    {
+      "id": "camp_1",
+      "name": "CYBER BILLING ALERT v1",
+      "status": "completed",
+      "templateId": "temp_1",
+      "audienceType": "tags",
+      "targetTags": [
+        "overdue"
+      ],
+      "totalContacts": 1,
+      "sentCount": 1,
+      "successCount": 1,
+      "failedCount": 0,
+      "delaySeconds": 1,
+      "createdAt": 1781949180069,
+      "completedAt": 1781949184069
+    },
+    {
+      "name": "1",
+      "templateId": "temp_uud9tacfk",
+      "audienceType": "tags",
+      "targetTags": [
+        "admin"
+      ],
+      "delaySeconds": 2,
+      "id": "camp_109yrtsyw",
+      "status": "completed",
+      "testNumbers": [],
+      "totalContacts": 3,
+      "sentCount": 3,
+      "successCount": 3,
+      "failedCount": 0,
+      "createdAt": 1782036552881,
+      "completedAt": 1782036566937
+    }
+  ],
+  "templates": [
+    {
+      "id": "temp_1",
+      "name": "Overdue Invoice Alert",
+      "text": "Hello {name}, your key service is overdue by {amount}. Please complete payment by {date} to maintain high-speed uplink. Secure cyber gateway: s.sms/pay",
+      "createdAt": 1781855580069
+    },
+    {
+      "id": "temp_2",
+      "name": "VIP System Invite",
+      "text": "Welcome {name}! Your console account config is verified. Access secure node with token. Support line: {phone}",
+      "createdAt": 1781891580069
+    },
+    {
+      "id": "temp_gr98pkfg0",
+      "name": "تمدید",
+      "text": "سلام\nاشتراک یک ماهه فعال شد \n\n6104338704394291\n\n به نام میثم جاویدانی\nهزینه 500 هزار تومان\nواریز کردین لطفا رسید رو هم بفرستین  \n\nقابل شما رو هم نداره 🙏🏻\nبا تشکر \n",
+      "createdAt": 1782036100120
+    },
+    {
+      "id": "temp_uud9tacfk",
+      "name": "Welcome",
+      "text": "Welcome Administrator.\n\nConnection established.\nAuthentication verified.\nGateway status: ACTIVE 🟢\n\nYou are now connected to the Cyber SMS Control Network.\n\nFrom this command center, you can manage contacts, deploy SMS campaigns, monitor delivery operations, and configure gateway infrastructure in real time.",
+      "createdAt": 1782036535501
+    }
+  ],
+  "logs": [
+    {
+      "id": "log_1",
+      "campaignId": "camp_1",
+      "campaignName": "CYBER BILLING ALERT v1",
+      "phone": "+15550199555",
+      "name": "Major Tom",
+      "message": "Hello Major Tom, your key service is overdue by $240.00. Please complete payment by June 15 to maintain high-speed uplink. Secure cyber gateway: s.sms/pay",
+      "status": "sent",
+      "retryCount": 0,
+      "timestamp": 1781949180069
+    },
+    {
+      "id": "log_2",
+      "campaignId": "camp_2",
+      "campaignName": "VIP NEON PROMO 2026",
+      "phone": "+15550199281",
+      "name": "Alpha Sentinel",
+      "message": "Welcome Alpha Sentinel! Your console account config is verified. Access secure node with token. Support line: +15550199281",
+      "status": "sent",
+      "retryCount": 0,
+      "timestamp": 1782028380069
+    },
+    {
+      "id": "log_3",
+      "campaignId": "camp_2",
+      "campaignName": "VIP NEON PROMO 2026",
+      "phone": "+15550199555",
+      "name": "Major Tom",
+      "message": "Welcome Major Tom! Your console account config is verified. Access secure node with token. Support line: +15550199555",
+      "status": "sent",
+      "retryCount": 0,
+      "timestamp": 1782028383069
+    },
+    {
+      "campaignId": "camp_2t04zp6lm",
+      "campaignName": "1",
+      "phone": "+989912113405",
+      "name": "Zen",
+      "message": "سلام\nاشتراک یک ماهه فعال شد \n\n6104338704394291\n\n به نام میثم جاویدانی\nهزینه 500 هزار تومان\nواریز کردین لطفا رسید رو هم بفرستین  \n\nقابل شما رو هم نداره 🙏🏻\nبا تشکر \n",
+      "status": "sent",
+      "errorReason": "",
+      "retryCount": 0,
+      "id": "log_op0h7szfs",
+      "timestamp": 1782036203657
+    },
+    {
+      "campaignId": "camp_2t04zp6lm",
+      "campaignName": "1",
+      "phone": "+989125535181",
+      "name": "Mahdi",
+      "message": "سلام\nاشتراک یک ماهه فعال شد \n\n6104338704394291\n\n به نام میثم جاویدانی\nهزینه 500 هزار تومان\nواریز کردین لطفا رسید رو هم بفرستین  \n\nقابل شما رو هم نداره 🙏🏻\nبا تشکر \n",
+      "status": "sent",
+      "errorReason": "",
+      "retryCount": 0,
+      "id": "log_k1cfg75no",
+      "timestamp": 1782036209547
+    },
+    {
+      "campaignId": "camp_asgu0rrsb",
+      "campaignName": "1",
+      "phone": "+989912113405",
+      "name": "Zen",
+      "message": "Hello Zen, your key service is overdue by . Please complete payment by  to maintain high-speed uplink. Secure cyber gateway: s.sms/pay",
+      "status": "sent",
+      "errorReason": "",
+      "retryCount": 0,
+      "id": "log_bnxiv5jr5",
+      "timestamp": 1782036321258
+    },
+    {
+      "campaignId": "camp_asgu0rrsb",
+      "campaignName": "1",
+      "phone": "+989125535181",
+      "name": "Mahdi",
+      "message": "Hello Mahdi, your key service is overdue by . Please complete payment by  to maintain high-speed uplink. Secure cyber gateway: s.sms/pay",
+      "status": "sent",
+      "errorReason": "",
+      "retryCount": 0,
+      "id": "log_hfifxjw1z",
+      "timestamp": 1782036324085
+    },
+    {
+      "campaignId": "camp_109yrtsyw",
+      "campaignName": "1",
+      "phone": "+989912113405",
+      "name": "Zen",
+      "message": "Welcome Administrator.\n\nConnection established.\nAuthentication verified.\nGateway status: ACTIVE 🟢\n\nYou are now connected to the Cyber SMS Control Network.\n\nFrom this command center, you can manage contacts, deploy SMS campaigns, monitor delivery operations, and configure gateway infrastructure in real time.",
+      "status": "sent",
+      "errorReason": "",
+      "retryCount": 0,
+      "id": "log_po86936rn",
+      "timestamp": 1782036558250
+    },
+    {
+      "campaignId": "camp_109yrtsyw",
+      "campaignName": "1",
+      "phone": "+989125535181",
+      "name": "Mahdi",
+      "message": "Welcome Administrator.\n\nConnection established.\nAuthentication verified.\nGateway status: ACTIVE 🟢\n\nYou are now connected to the Cyber SMS Control Network.\n\nFrom this command center, you can manage contacts, deploy SMS campaigns, monitor delivery operations, and configure gateway infrastructure in real time.",
+      "status": "sent",
+      "errorReason": "",
+      "retryCount": 0,
+      "id": "log_tfgv4pnt0",
+      "timestamp": 1782036561208
+    },
+    {
+      "campaignId": "camp_109yrtsyw",
+      "campaignName": "1",
+      "phone": "+989122519039",
+      "name": "Mr.Javidani",
+      "message": "Welcome Administrator.\n\nConnection established.\nAuthentication verified.\nGateway status: ACTIVE 🟢\n\nYou are now connected to the Cyber SMS Control Network.\n\nFrom this command center, you can manage contacts, deploy SMS campaigns, monitor delivery operations, and configure gateway infrastructure in real time.",
+      "status": "sent",
+      "errorReason": "",
+      "retryCount": 0,
+      "id": "log_p0idvarpl",
+      "timestamp": 1782036564036
+    }
+  ],
+  "settings": {
+    "gatewayUrl": "http://192.168.1.67:8082/",
+    "apiToken": "19677b53-6c98-4929-9e60-ca788ada9036",
+    "defaultDelaySeconds": 2,
+    "enableAnimations": true,
+    "dryRunMode": false,
+    "successImageUrl": "",
+    "failureImageUrl": ""
+  },
+  "admins": [
+    {
+      "id": "admin_1",
+      "username": "admin",
+      "password": "cyberadmin1337",
+      "fullName": "Console Owner",
+      "email": "admin@cybersms.io",
+      "profilePhoto": "",
+      "permissions": {
+        "canManageContacts": true,
+        "canManageTemplates": true,
+        "canManageCampaigns": true,
+        "canManageSettings": true,
+        "canManageAdmins": true,
+        "canDeleteCampaigns": true,
+        "canAccessLogs": true,
+        "canConfigureSystem": true
+      },
+      "createdAt": 1782035580069
+    }
+  ]
+}

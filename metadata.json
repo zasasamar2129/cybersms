@@ -1,0 +1,7 @@
+{
+  "name": "CYBER SMS CONTROL PANEL",
+  "description": "A secure admin dashboard for sending bulk SMS campaigns through an Android SMS gateway, complete with AI text optimization, contact management, sending monitors, and audio transcription support.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
